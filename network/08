@@ -1,0 +1,2 @@
+whois 13.33.242.215 
+host slash16.org | grep 'address' | awk '{print $4}'

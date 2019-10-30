@@ -1,0 +1,6 @@
+graphic session:
+обзор - параметры - пользователи - добавить пользователя
+
+ssh:
+ssh root@127.0.0.1 -p 2222 / yes
+add user / password

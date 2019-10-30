@@ -1,0 +1,4 @@
+#!/bin/bash
+USER=$1
+sudo killall -9 -u $USER
+sudo userdel $USER
